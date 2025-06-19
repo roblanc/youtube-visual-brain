@@ -1,0 +1,20 @@
+{
+  "name": "youtube-visual-brain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@types/node": "^24.0.3",
+    "@types/node-fetch": "^2.6.12",
+    "node-fetch": "^2.7.0",
+    "typescript": "^5.8.3"
+  }
+}
